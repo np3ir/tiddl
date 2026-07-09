@@ -3,7 +3,7 @@
 Download tracks and videos from Tidal with max quality! `tiddl` is CLI app written in Python.
 
 > [!WARNING]
-> `This app is for personal use only and is not affiliated with Tidal. Users must ensure their use complies with Tidal's terms of service and local copyright laws. Downloaded tracks are for personal use and may not be shared or redistributed. The developer assumes no responsibility for misuse of this app.`
+> **This app is for personal, educational, and archival purposes only.** It is not affiliated with Tidal. Users must ensure their use complies with Tidal's terms of service and all applicable local copyright laws. Downloaded content is for personal use and may not be shared or redistributed. The developer assumes no responsibility for misuse of this app.
 
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/tiddl?style=for-the-badge&color=%2332af64)
 ![PyPI - Version](https://img.shields.io/pypi/v/tiddl?style=for-the-badge)
